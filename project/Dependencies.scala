@@ -8,7 +8,7 @@ object Dependencies {
   val CirceVersion            = "0.13.0"
   val DoobieVersion           = "0.9.0"
   val EmilVersion             = "0.5.1"
-  val FlywayVersion           = "6.4.1"
+  val FlywayVersion           = "6.4.2"
   val Fs2Version              = "2.3.0"
   val H2Version               = "1.4.200"
   val Http4sVersion           = "0.21.4"
@@ -21,10 +21,10 @@ object Dependencies {
   val PostgresVersion         = "42.2.12"
   val PureConfigVersion       = "0.12.3"
   val SemanticUIVersion       = "2.4.1"
-  val SwaggerVersion          = "3.25.1"
+  val SwaggerVersion          = "3.25.2"
   val TikaVersion             = "1.24.1"
   val TusClientVersion        = "1.8.0-1"
-  val YamuscaVersion          = "0.6.1"
+  val YamuscaVersion          = "0.6.2"
 
   val fs2 = Seq(
     "co.fs2" %% "fs2-core" % Fs2Version
